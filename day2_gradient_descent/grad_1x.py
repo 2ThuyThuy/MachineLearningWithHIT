@@ -42,7 +42,7 @@ plt.scatter(his[-1],f(his[-1]),c='red')
 
 
 #ax.set_xlim(-1,3)
-ax.set_title('$x^4 - 2x^3+2$')
+ax.set_title('$f(x) = x^4 - 2x^3+2$')
 plt.ylabel('f(x)')
 plt.xlabel('x')
 print(his[-1])
